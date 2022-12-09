@@ -35,8 +35,7 @@ app.get('/', (req, res) =>{
 
 
 
-app.listen(PORT, function(){
-    console.log('servidor en linea');
-})
+app.listen(PORT)
+console.log('servidor en linea');
 
 

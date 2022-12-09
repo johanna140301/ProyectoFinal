@@ -81,7 +81,7 @@ nav #logo {
 }
 
 .card:hover {
-    box-shadow: 0 12px 24px 0 rgb(0, 0, 0);
+    box-shadow: 16px 16px 24px 0 rgb(0, 0, 0);
 }
 
 .imagen {

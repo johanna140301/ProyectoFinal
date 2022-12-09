@@ -64,10 +64,11 @@ nav #logo {
 }
 
 h1{
-    text-align: center;
+    margin-left: 15%;
+    margin-top: 50px;
     font-family: 'Inter Tight', sans-serif;
     font-size: 25px;
-    color: white;
+    color: rgb(182, 180, 180);
 }
 
 .Micontenedor {
